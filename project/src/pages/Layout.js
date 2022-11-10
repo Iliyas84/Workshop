@@ -16,8 +16,7 @@ const Layout = () => {
           
           <div><Button color="secondary" variant="contained"><Link to="/contact">Contact</Link></Button></div>
 
-          
-       
+
       </div>
 
       <Outlet />
