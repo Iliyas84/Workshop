@@ -1,0 +1,19 @@
+#h1{
+    font-size: 30px;
+}
+
+.mp{
+color: black;
+background-color: skyblue;
+border: solid 0.4px;
+text-align: center;
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+}
+.div{
+border: solid 1px;  
+}
+.container{
+    position: fixed;
+    color: aqua;
+}
